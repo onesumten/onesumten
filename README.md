@@ -8,7 +8,7 @@
   <a href="mailto:breezeconfortable@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-breezeconfortable%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
-  <a href="https://leetcode.com/PhysicalReaction/" target="_blank">
+  <a href="https://leetcode.cn/u/gearmetal/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-PhysicalReaction-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
