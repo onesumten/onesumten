@@ -1,7 +1,9 @@
 <div align="center">
   <h1>Welcome!</h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=true&pause=100000&lines=Hi,+I'm+Solid.+AI+Full-Stack+Developer." alt="Hi"/>
 </div>
+
+### Personal information
+I am full-stack software engineer, and I got Master of Computing degree from Australia National University. I can use C, Java, Dart, python and ARM assembly language. Besides, I know about html, css, javascript language. In addition, I am so eager to learn about the knowledge of Computing and Math. During the master degree time, I focus on computer system, software development, and Machine learning.
 
 ### Links
 <p>
