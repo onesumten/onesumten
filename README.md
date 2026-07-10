@@ -3,8 +3,7 @@
 </div>
 
 ### Personal information
-I am full-stack software engineer, and I got Master of Computing degree from Australia National University. I can use C, Java, Dart, python and ARM assembly language. Besides, I know about html, css, javascript language. In addition, I am so eager to learn about the knowledge of Computer engine and Math. During the master degree time, I focus on computer system, software development, and Machine learning.
-
+My name is sotha wang, a full-stack software engineer and a master of computing from Australia National University. I focus on Computer system, software development, data science and artifical intelligence. My main programming language are Dart, Java, C, Python and ARM assembly.
 ### Links
 <p>
   <a href="mailto:breezeconfortable@gmail.com">
