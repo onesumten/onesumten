@@ -3,7 +3,7 @@
 </div>
 
 ### About me
-My name is sotha wang, a full-stack software engineer and a master of computing from Australia National University. I focus on Computer system, software development, data science and artifical intelligence. My main programming language are Dart, Java, C, Python and ARM assembly.
+My name is sotha wang, a full-stack software engineer and a master of computing from Australia National University. I focus on Computer System, Software Development, Data Science and Artifical Intelligence. My main programming language are Dart, Java, C, Python and ARM assembly.
 ### Links
 <p>
   <a href="mailto:breezeconfortable@gmail.com">
